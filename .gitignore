@@ -203,3 +203,4 @@ nohup.out
 scraper_cache/
 note.txt
 */screenshot/
+.env
